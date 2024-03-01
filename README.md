@@ -39,4 +39,4 @@ Ensure you have the following prerequisites installed:
    
 ## Screenshots
 
-![App Screenshot](language_translatorapp.png)
+![App Screenshot](language_translateapp.png)
