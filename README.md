@@ -18,6 +18,7 @@ Interact with the model on Hugging Face Spaces: [Translator Model](https://huggi
 ## Dataset
 
 [dataset link](https://huggingface.co/datasets/opus_books)
+
 The model has been fine-tuned on a custom dataset containing pairs of English and French sentences. Ensure your translation needs align with the scope of the fine-tuning dataset.
 
 
@@ -34,7 +35,7 @@ Ensure you have the following prerequisites installed:
 1. Clone the repository:
 
    ```bash
-    git clone https://github.com/your-username/your-translator-repo.git
+    https://github.com/theSuriya/Language-Translator.git
    
 ## Screenshots
 
